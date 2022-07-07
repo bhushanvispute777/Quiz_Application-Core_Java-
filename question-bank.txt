@@ -1,0 +1,19 @@
+How are PM of India,Rahul Gandhi|Narendra Modi|Raj Thakare|Uthav Thakare|2
+How is the CEO of Tata,Kundan Savale|Chetan Jadhav|Ratan Tata|Mahesh Ghade|3
+who is CM of Maharashtra,Eknath Shinde|Uthav Thakre|Raj Thakre|Rani Mukharji|1
+Which of the following is programing language,Java|Javascript|typescript|PHP|1
+Capital of Maharashtra,Nashik|Nagpur|Mumbai|Pune|3
+Full form of API,Application Programing Interface|Android Programing Interface|Application Programing Input|Applivation Project Interface|1
+How many days in week,6|3|2|7|4
+How many seconds make a one hour,1200|3600|3500|3400|3
+Name of National game of Indian,Cricket|Hokey|Football|Baseball|2
+How is the captain of indian cricket team,Virat Kohali|Rohit Sharma|M.S.Dhoni|Shikhar Dhawan|2
+Which IPL team wins most IPL trophy,MI|CSK|RBC|RR|1
+How many colors in rainbow,7|4|3|9|1
+Full form of JVM,Java Virtual Machine|Java Velocity Machine|Java Volume Mechine|Java Value Machine|1
+Capital of Goa,Panaji|pune|Mumbai|Delhi|1
+Which city know as economical capital of india,Mumbai|Delhi|chennai|Pune|1
+How many State in India,29|27|26|28|4
+How many teeth in human mouth,31|32|45|21|2
+Who is Ex CM of Maharashtra,Kundan Savale|Pratik Sonwane|Chetan Jadhav|Udhav Thakre|4
+Which website know as search engine,Google|Yahoo|Youtube|Instagram|1
